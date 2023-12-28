@@ -1,8 +1,8 @@
 
-# Nom du Projet: Wattway
+# Wattway - Présentation TPE
 
 ## Introduction
-Depuis l'avènement de l'ère industrielle, notre consommation d'énergie a constamment augmenté. Aujourd'hui, nous cherchons des moyens plus durables de produire de l'énergie, en nous tournant vers des solutions comme les énergies renouvelables. Ce projet explore le potentiel des routes solaires comme source d'énergie propre et renouvelable, une innovation prometteuse pour répondre aux besoins énergétiques tout en réduisant notre empreinte carbone.
+Ce site Internet a été créé dans le but de présenter notre Travail Personnel Encadré (TPE) réalisé en première au lycée. Il s'agit d'une exploration du concept innovant de Wattway, une technologie qui transforme les routes en sources d'énergie solaire, répondant ainsi aux enjeux actuels de production d'énergie durable et de réduction de l'empreinte carbone.
 
 ## Le Wattway
 Le Wattway est une innovation marquante de Colas, filiale du groupe Bouygues, qui transforme les routes en surfaces productrices d'énergie grâce à un revêtement routier photovoltaïque. Ce concept permet à la route d'acquérir une nouvelle fonction: produire de l'énergie propre et renouvelable, alimentant ainsi l'éclairage public, les bâtiments, et plus encore, avec pour vision d'éclairer une ville de 5 000 habitants avec un kilomètre linéaire de route équipée.
